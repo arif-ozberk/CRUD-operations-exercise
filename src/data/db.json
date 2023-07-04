@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 367.9083016927451,
+      "name": "ahmet",
+      "age": 34,
+      "job": "architect"
+    },
+    {
+      "id": 139.5746974436849,
+      "name": "arif",
+      "age": 21,
+      "job": "student"
+    },
+    {
+      "id": 444.96369943417614,
+      "name": "ayşe",
+      "age": 18,
+      "job": "cook"
+    },
+    {
+      "id": 262.6781544764172,
+      "name": "mehmet",
+      "age": 25,
+      "job": "engineer"
+    }
+  ]
+}
